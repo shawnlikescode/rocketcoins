@@ -1,4 +1,4 @@
-# ⚡ To The Moon
+# ⚡ Rocket Coins
 
 Vite + React + TypeScript + Tailwind with Firebase.
 
